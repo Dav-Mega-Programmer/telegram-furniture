@@ -36,6 +36,7 @@ button { border: 0; cursor: pointer; }
 .category { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 14px 10px; text-align: left; min-height: 84px; box-shadow: 0 5px 18px rgba(0,0,0,.035); }
 .category .emoji { font-size: 25px; display: block; margin-bottom: 8px; }
 .category strong { font-size: 13px; }
+.contact-link { color: #087e70; text-decoration: none; font-weight: 800; }
 .category.active { border-color: rgba(11,183,159,.35); box-shadow: 0 8px 24px rgba(11,183,159,.11); }
 .filter-row { display: flex; gap: 8px; overflow-x: auto; padding: 2px 0 6px; scrollbar-width: none; }
 .filter-row::-webkit-scrollbar { display: none; }
