@@ -1,5 +1,5 @@
 const kitchens = [
- {name:"Кухня «Modern»",area:"Индивидуальный проект",price:"от 189 000 ₽",description:"Современная кухня в тёплых спокойных оттенках.",image:"assets/kitchen-1.png"},
+ {name:"Кухня «Modern»",area:"Индивидуальный проект",price:"от 400 000 ₽",description:"Современная кухня в тёплых спокойных оттенках.",image:"assets/kitchen-1.png"},
  {name:"Кухня «White Wood»",area:"32 м²",price:"850 000 ₽",description:"Светлая угловая кухня с белыми фасадами и натуральным деревом.",image:"assets/kitchen-2.webp"},
  {name:"Кухня «Graphite»",area:"27 м²",price:"720 000 ₽",description:"Стильная графитовая кухня с белыми верхними фасадами и мраморной панелью.",image:"assets/kitchen-3.jpg"}
 ];
